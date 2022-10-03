@@ -12,6 +12,6 @@ Step 1: Finalize design (we will run a poll on twitter if there are multiple des
 
 Step 2: Finalize website code (anyone can create a pull request on this repository to become the official MagnateDao website admin)
 
-Step 3: publish on magnatedao.org
+Step 3: Publish website on magnatedao.org
 
 Step 4: Reward contributors with DAO membership.
